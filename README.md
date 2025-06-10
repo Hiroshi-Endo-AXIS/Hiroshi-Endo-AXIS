@@ -3,7 +3,7 @@
 - 👀 I’m interested in creative development including web apps, 3D design, and physical fabrication.
 - 🌱 I’m currently learning Next.js, TypeScript, and WebGL with Three.js.
 - 💞️ I’m looking to collaborate on projects related to design-driven development, medical tech, or sports applications.
-- 📫 How to reach me: [axis.code@jcom.zaq.ne.jp](mailto:hiroshi.endo@example.com)
+- 📫 How to reach me: [axis.code@jcom.zaq.ne.jp](mailto:axis.code@jcom.zaq.ne.jp)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I mix digital tools and TIG welding to build things you can both click and touch!
 
